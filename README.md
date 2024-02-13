@@ -1,8 +1,7 @@
 # Process Scheduling Solver
 
 
-
-![process scheduling solver](https://github.com/Munir86/process-scheduling-solver/assets/29251456/b7d16010-46bd-4710-aa0e-605db8843a63)
+![process scheduling solver](https://github.com/Munir86/process-scheduling-solver/assets/29251456/cfd420e0-0ad4-4d7e-9483-decdd2b62a76)
 
 
 ## Supported algorithms
